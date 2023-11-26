@@ -1,2 +1,2 @@
 # ALPR
-Automatic license plate recognition
+Automatic license plate recognition - an Image Processing assignment.
